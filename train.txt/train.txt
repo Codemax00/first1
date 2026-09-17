@@ -1,1 +1,1 @@
-hello this my learning of the git  
+Git learning note: this file documents early repository practice.
